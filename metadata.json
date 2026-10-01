@@ -1,0 +1,11 @@
+{
+  "name": "PrepAI - AI Mock Interview & Career Coach",
+  "description": "End-to-end AI mock interview platform featuring realistic voice & video interviews, adaptive questions, resume ATS analysis, live coding sandbox, and deep rubric evaluation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
